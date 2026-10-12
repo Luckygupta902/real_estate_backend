@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Real Estate Application - Backend API
 
 A Spring Boot REST API for a real estate platform with user management, property listings, social features (likes/comments/follows), messaging, lead management, and notifications.
@@ -707,3 +708,6 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 - **Password Storage**: Passwords stored as bcrypt hashes via `BCryptPasswordEncoder`
 - **Account Activation**: New accounts are inactive until the activation link is visited
 - **CORS**: Configured to allow all origins (development setting; restrict for production)
+=======
+# real_estate_backend
+>>>>>>> 3b4715cbb0475f663003be57fd6ed11fb1715092
